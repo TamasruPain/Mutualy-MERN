@@ -20,3 +20,6 @@ Users can search mutual fund schemes, view NAV details, and save funds to their 
 
 ## 📌 Context
 > Built as an internship selection assignment — implemented full auth flow, external API integration, and CRUD with search/filter functionality.
+
+## Live Link
+https://mutualy-tp.vercel.app/
